@@ -1,6 +1,1 @@
-hello there!
-update!
-another update!
-howdy there!
-yowza!
-qwerqwer
+reset
